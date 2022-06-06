@@ -1,1 +1,1 @@
-# LPProject
+# LP Kakuro
